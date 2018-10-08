@@ -72,7 +72,6 @@ public class ListaPersonas {
 		}
 	}
 	
-	//Nuevos métodos
 	public boolean modificarNombre(String rut, String nombre)
 	{
 		if(buscarPersona(rut)!=null)
@@ -82,5 +81,6 @@ public class ListaPersonas {
 		}
 		return false;
 	}
+	
 	
 }
