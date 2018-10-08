@@ -2,7 +2,7 @@ package clases;
 
 import java.io.*;
 
-//Creadores: -Eduardo Barrientos 
+//Creadores: -Eduardo Barrientos Díaz
 //           -
 
 public class Principal {
