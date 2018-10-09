@@ -3,6 +3,7 @@ package clases;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+//hola
 
 
 public class ListaPersonas {
@@ -72,7 +73,6 @@ public class ListaPersonas {
 		}
 	}
 	
-	//Nuevos métodos
 	public boolean modificarNombre(String rut, String nombre)
 	{
 		if(buscarPersona(rut)!=null)
@@ -82,5 +82,6 @@ public class ListaPersonas {
 		}
 		return false;
 	}
+	
 	
 }

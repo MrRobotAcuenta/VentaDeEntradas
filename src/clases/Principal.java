@@ -2,6 +2,9 @@ package clases;
 
 import java.io.*;
 
+//Creadores: -Eduardo Barrientos Díaz
+//           -
+
 public class Principal {
 	private static ListaEventos eventos=new ListaEventos();
 	
